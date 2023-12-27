@@ -1,1 +1,6 @@
-# CSharp_dataset_prescriptive_procedure
+# Supplementary material for the paper "Prescriptive procedure for manual code smell annotation"
+
+This repository contains the supplementary material for the paper "Prescriptive procedure for manual code smell annotation", where we present the manually annotated code smell dataset containing Data Class, Feature Envy, and Refused Bequest code smells. During the annotation procedure, annotators were trained based on the annotation schema and guidelines:
+* [Relevant_Literature_For_Schema_And_Guidelines.xlsx](https://github.com/Clean-CaDET/CSharp_dataset_prescriptive_procedure/blob/master/Relevant_Literature_For_Schema_And_Guidelines.xlsx) - This document contains the relevant literature that we used to compile the annotation schema and guidelines. We present the code smell definitions, developer heuristics (how developers detect code smells), and metric-based heuristics for automatic detection. Additionally, we provide the references to the papers from which these definitions and heuristics have been derived.
+* [Annotation_Schema.xlsx](https://github.com/Clean-CaDET/CSharp_dataset_prescriptive_procedure/blob/master/Annotation_Schema.xlsx) - This document contains the annotation schema: definitions, heuristics and severity values.
+* [Annotation_Guidelines.xlsx](https://github.com/Clean-CaDET/CSharp_dataset_prescriptive_procedure/blob/master/Annotation_Guidelines.xlsx) - This document contains the annotation guidelines: instructions on how to apply the annotation schema while annotating.
